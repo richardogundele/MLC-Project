@@ -1,2 +1,1 @@
-# MLC-Project
-Car Sales Prediction
+# Car Sales Prediction
